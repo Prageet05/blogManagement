@@ -129,9 +129,3 @@ module.exports.getBlog = getBlog
 module.exports.putblogs = putblogs
 module.exports.deleteblog = deleteblog
 module.exports.deleteQueryBlog = deleteQueryBlog
-
-
-
-
-
-
